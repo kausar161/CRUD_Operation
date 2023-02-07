@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insert _Update_Table _ SQL", "Insert _Update_Table _ SQL\Insert _Update_Table _ SQL.csproj", "{E1A5D44B-6474-4D89-B54A-AA68F99E4CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1A5D44B-6474-4D89-B54A-AA68F99E4CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A5D44B-6474-4D89-B54A-AA68F99E4CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A5D44B-6474-4D89-B54A-AA68F99E4CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A5D44B-6474-4D89-B54A-AA68F99E4CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12F0041-48BF-4868-BB15-3ED562A8EFA4}
+	EndGlobalSection
+EndGlobal

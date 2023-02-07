@@ -1,0 +1,18 @@
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\bin\Debug\net6.0-windows\Insert _Update_Table _ SQL.exe
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\bin\Debug\net6.0-windows\Insert _Update_Table _ SQL.deps.json
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\bin\Debug\net6.0-windows\Insert _Update_Table _ SQL.runtimeconfig.json
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\bin\Debug\net6.0-windows\Insert _Update_Table _ SQL.dll
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\bin\Debug\net6.0-windows\Insert _Update_Table _ SQL.pdb
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert__Update_Table___SQL.Form1.resources
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert__Update_Table___SQL.Properties.Resources.resources
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.AssemblyInfo.cs
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.dll
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\refint\Insert _Update_Table _ SQL.dll
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.pdb
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\Insert _Update_Table _ SQL.genruntimeconfig.cache
+C:\Users\USER\source\repos\Insert _Update_Table _ SQL\Insert _Update_Table _ SQL\obj\Debug\net6.0-windows\ref\Insert _Update_Table _ SQL.dll
